@@ -1,0 +1,6 @@
+D:\repos\GB\CSharpLevelOneHomeWork_1\Solution_5\bin\Debug\Solution_5.exe.config
+D:\repos\GB\CSharpLevelOneHomeWork_1\Solution_5\bin\Debug\Solution_5.exe
+D:\repos\GB\CSharpLevelOneHomeWork_1\Solution_5\bin\Debug\Solution_5.pdb
+D:\repos\GB\CSharpLevelOneHomeWork_1\Solution_5\obj\Debug\Solution_5.csproj.CoreCompileInputs.cache
+D:\repos\GB\CSharpLevelOneHomeWork_1\Solution_5\obj\Debug\Solution_5.exe
+D:\repos\GB\CSharpLevelOneHomeWork_1\Solution_5\obj\Debug\Solution_5.pdb
