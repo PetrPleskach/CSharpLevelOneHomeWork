@@ -1,0 +1,7 @@
+D:\repos\GB\CSharpLevelOneHomeWork_1\Solution_1\bin\Debug\Solution_1.exe.config
+D:\repos\GB\CSharpLevelOneHomeWork_1\Solution_1\bin\Debug\Solution_1.exe
+D:\repos\GB\CSharpLevelOneHomeWork_1\Solution_1\bin\Debug\Solution_1.pdb
+D:\repos\GB\CSharpLevelOneHomeWork_1\Solution_1\obj\Debug\Solution_1.csproj.CoreCompileInputs.cache
+D:\repos\GB\CSharpLevelOneHomeWork_1\Solution_1\obj\Debug\Solution_1.exe
+D:\repos\GB\CSharpLevelOneHomeWork_1\Solution_1\obj\Debug\Solution_1.pdb
+D:\repos\GB\CSharpLevelOneHomeWork_1\Solution_1\obj\Debug\Solution_1.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\repos\GB\CSharpLevelOneHomeWork_1\Solution_3\bin\Debug\Solution_3.exe.config
+D:\repos\GB\CSharpLevelOneHomeWork_1\Solution_3\bin\Debug\Solution_3.exe
+D:\repos\GB\CSharpLevelOneHomeWork_1\Solution_3\bin\Debug\Solution_3.pdb
+D:\repos\GB\CSharpLevelOneHomeWork_1\Solution_3\bin\Debug\Solution_1.exe
+D:\repos\GB\CSharpLevelOneHomeWork_1\Solution_3\bin\Debug\Solution_1.pdb
+D:\repos\GB\CSharpLevelOneHomeWork_1\Solution_3\bin\Debug\Solution_1.exe.config
+D:\repos\GB\CSharpLevelOneHomeWork_1\Solution_3\obj\Debug\Solution_3.csprojAssemblyReference.cache
+D:\repos\GB\CSharpLevelOneHomeWork_1\Solution_3\obj\Debug\Solution_3.csproj.CoreCompileInputs.cache
+D:\repos\GB\CSharpLevelOneHomeWork_1\Solution_3\obj\Debug\Solution_3.csproj.CopyComplete
+D:\repos\GB\CSharpLevelOneHomeWork_1\Solution_3\obj\Debug\Solution_3.exe
+D:\repos\GB\CSharpLevelOneHomeWork_1\Solution_3\obj\Debug\Solution_3.pdb
