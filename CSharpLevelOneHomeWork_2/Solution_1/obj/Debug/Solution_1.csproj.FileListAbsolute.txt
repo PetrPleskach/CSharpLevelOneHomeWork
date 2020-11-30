@@ -1,0 +1,10 @@
+D:\repos\CSharpLevelOneHomeWork_2\Solution_1\bin\Debug\Solution_1.exe.config
+D:\repos\CSharpLevelOneHomeWork_2\Solution_1\bin\Debug\Solution_1.exe
+D:\repos\CSharpLevelOneHomeWork_2\Solution_1\bin\Debug\Solution_1.pdb
+D:\repos\CSharpLevelOneHomeWork_2\Solution_1\bin\Debug\MyMethods.dll
+D:\repos\CSharpLevelOneHomeWork_2\Solution_1\bin\Debug\MyMethods.pdb
+D:\repos\CSharpLevelOneHomeWork_2\Solution_1\obj\Debug\Solution_1.csprojAssemblyReference.cache
+D:\repos\CSharpLevelOneHomeWork_2\Solution_1\obj\Debug\Solution_1.csproj.CoreCompileInputs.cache
+D:\repos\CSharpLevelOneHomeWork_2\Solution_1\obj\Debug\Solution_1.csproj.CopyComplete
+D:\repos\CSharpLevelOneHomeWork_2\Solution_1\obj\Debug\Solution_1.exe
+D:\repos\CSharpLevelOneHomeWork_2\Solution_1\obj\Debug\Solution_1.pdb

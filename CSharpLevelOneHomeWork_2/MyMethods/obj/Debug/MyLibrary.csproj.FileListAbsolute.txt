@@ -1,0 +1,6 @@
+D:\repos\CSharpLevelOneHomeWork_2\MyMethods\bin\Debug\MyMethods.dll
+D:\repos\CSharpLevelOneHomeWork_2\MyMethods\bin\Debug\MyMethods.pdb
+D:\repos\CSharpLevelOneHomeWork_2\MyMethods\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+D:\repos\CSharpLevelOneHomeWork_2\MyMethods\obj\Debug\MyMethods.dll
+D:\repos\CSharpLevelOneHomeWork_2\MyMethods\obj\Debug\MyMethods.pdb
+D:\repos\CSharpLevelOneHomeWork_2\MyMethods\obj\Debug\MyLibrary.csprojAssemblyReference.cache
